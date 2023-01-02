@@ -1,5 +1,22 @@
 # PresidentialPackProject
-  
+
+        ## Introduction:
+    
+        This is a project I work on in my spare time and is licensed under CC. Use it however you want.
+    
+        A project for Infinity engine games from the 1990's (Specifically Baldur's Gate Enhanced Edition,
+        though it can work with BG2EE and IWDEE as well) to add custom portraits and soundpacks for US presidents. 
+        This project is not a reflection of political stance. Plans are to continue to add portraits and soundpacks
+        for US presidents going backward in time.
+
+        All presidents will be demonized into the Tiefling race, regardless of their political stance. The sound packs
+        are English only and use actual audio clips from the actual presidents themselves from around the internet,
+        mashed up to create something that reflects their personality and not their political stance.
+
+        In this way, to remain canonical to Faerun and the Dungeons and Dragons theme and universe, I've made a deliberate
+        effort to refrain from using audio clips containing words like "America" or "We the People" etc. The goal is
+        to establish a sense of characterter transcendence from real-world US leaders into the Forgotten Realms lore.
+        
     ##INSTALLATION:
     
         1: Open the folder "My Documents\Baldur's Gate - Enhanced Edition\portraits". If there isn't already a folder named
